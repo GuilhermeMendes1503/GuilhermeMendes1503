@@ -28,11 +28,23 @@
 
 <br>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeMendes1503&show_icons=true&theme=chartreuse-dark)
+<p align="center">
+  <a href="https://github.com/seu-usuario">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=GuilhermeMendes1503&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
+    />
+  </a>
+  <a href="https://github.com/seu-usuario">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMendes1503&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark"
+    />
+  </a>
+</p>
 
-<p></p>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMendes1503&layout=compact)
 <br>
 
 <a href="www.linkedin.com/in/guilherme-mendes-83302821a"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="My_Linkedin"></a>
