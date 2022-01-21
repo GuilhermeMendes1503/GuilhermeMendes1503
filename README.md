@@ -1,29 +1,23 @@
 
-<h2  align="center"> Hi, I’m @GuilhermeMendes1503</h2>
+<h1  align="center"> Hi, I’m @GuilhermeMendes1503</h1>
 
 
 <br>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://media.giphy.com/media/3ohs7KViF6rA4aan5u/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<br><br><br><br>
+
+
 -  I’m interested in Css designs.
 -  I’m currently learning Git and Scss
 -  You can reach me at my email GuilhermeMendes1503@gmail.com
 
+
+<br><br><br><br><br><br>
+<br>
+<br>
 <p align="center">
-   <a href="https://code.visualstudio.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-   </a>
-   <a href="https://git-scm.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-   </a>
+      <img src="https://user-images.githubusercontent.com/74300007/150452449-b5d9277d-245f-4b1d-957b-32895fe85425.png"/>
 </p>
 
 <br>
