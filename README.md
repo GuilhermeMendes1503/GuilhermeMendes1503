@@ -1,13 +1,6 @@
 
 <h1  align="center"> Hi, I’m @GuilhermeMendes1503</h1>
 
-
-<br>
-<img src="https://media.giphy.com/media/3ohs7KViF6rA4aan5u/giphy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-<br><br><br><br>
-
-
 -  I’m interested in Css designs.
 -  I’m currently learning Git and Scss
 -  You can reach me at my email GuilhermeMendes1503@gmail.com
