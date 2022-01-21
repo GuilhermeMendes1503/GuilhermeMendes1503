@@ -5,9 +5,6 @@
 -  I’m currently learning Git and Scss
 -  You can reach me at my email GuilhermeMendes1503@gmail.com
 
-
-<br><br><br><br><br><br>
-<br>
 <br>
 <p align="center">
       <img src="https://i.ibb.co/ynXJ2Cn/output-onlinegiftools-1.gif" width="250"/>
