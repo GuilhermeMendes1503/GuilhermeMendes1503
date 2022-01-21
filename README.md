@@ -13,6 +13,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeMendes1503&show_icons=true&theme=chartreuse-dark)
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMendes1503&layout=compact)
+
 <br>
 
 <a href="www.linkedin.com/in/guilherme-mendes-83302821a"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" alt="My_Linkedin"></a>
