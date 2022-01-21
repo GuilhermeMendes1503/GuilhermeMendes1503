@@ -3,7 +3,7 @@
 
 
 <br>
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 -  I’m interested in Css designs.
 -  I’m currently learning Git and Scss
 -  You can reach me at my email GuilhermeMendes1503@gmail.com
