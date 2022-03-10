@@ -3,8 +3,10 @@
 
 <h3> 😀 About me</h3>
 
--  🖌️ I’m interested in Css designs.
--  💭 I’m currently learning Git and Scss
+-  🖌️ I’m interested in Css designs and I like to use the Sass to do it.
+-  🔀 I'm started using Git with VSCode(And im trying to learn Console Git).
+-  💭 I am currently developing an E-commerce automation program (inventory management, product registration with barcodes, and some other stuff).
+
 
 <h3>🌐 My Network</h3>
 
