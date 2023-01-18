@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme Mendes</h1>  
 
 ### Glad to see you here!  
-I’m a Cetificated system development technician and computer science student currently on my third semester, currently looking to expand my knolege on java, and looking for my first development team experiency.
+I’m a Cetificated system development technician and computer science student currently on my third semester, currently looking to expand my knolege on java.
   
 - 🎯 My carrer objective is become a Project Manager.
 
