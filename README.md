@@ -7,7 +7,7 @@ I’m a Cetificated system development technician and computer science student c
 
 - 🔭 I’m currently working on **WebStore Manager**  
   
-- 🌱 I’m currently learning **Docker**  
+- 🌱 I’m currently learning **Docker** and messing around with **WordPress**
   
 - 💬 Ask me about **Java, C#, CSS, PHP.**  
   
