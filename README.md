@@ -3,8 +3,6 @@
 ### Glad to see you here!  
 I’m a Cetificated system development technician and computer science student currently on my third semester, currently looking to expand my knolege on java.
   
-- 🎯 My carrer objective is become a Project Manager.
-
 - 🔭 I’m currently working on **WebStore Manager**  
   
 - 🌱 I’m currently learning **Docker** and messing around with **WordPress**
