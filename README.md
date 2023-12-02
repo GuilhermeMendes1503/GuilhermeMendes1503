@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Guilherme Mendes</h1>  
 
 ### Glad to see you here!  
-I’m a Cetificated system development technician and computer science student currently on my third semester, currently looking to expand my knolege on java.
+I’m a Cetificated system development technician and computer science student, currently expanding my knologe on ML, AI and data analisys.
   
-- 🔭 I’m currently working on **WebStore Manager**  
+- 🔭 I’m currently working on my personal project **ACE SHIPPING MANAGEMENT SOLUTION**  
   
-- 🌱 I’m currently learning **Docker** and messing around with **WordPress**
+- 🌱 I’m currently learning **NODE.JS** and lerning more services from **AWS**
   
-- 💬 Ask me about **Java, C#, CSS, PHP.**  
+- 💬 My daily tecnologies:
+  - AWS: ECS, EC2, ECR, Lambda, Batch, Stepfunction, APIGateway, Athena, DynamoDB, IAM, Secret Manager, Amplify
+  - Python: Pandas, Numpy, Botocore, Marshmallow, Requests and so on and so forth
+  - JavaScript: React, Redux, Styled Components.
+  - Docker
+  - Terraform
+  - GIT
   
 - <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-2-1.png" width="16" height="13" alt="My_Stackoverflow"> Reach me at **GuilhermeMendes1503@gmail.com**  
   
